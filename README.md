@@ -1,4 +1,4 @@
-# Fifefly-Algorithm
+# Firefly-Algorithm
 
 It's a simple implementation of Firefly algorithm which cotains the most used objective functions implemented already.
 <br />
